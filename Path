@@ -9,7 +9,6 @@ Defensive Security Jobs-
 SOC Operation Jobs-
 
 .. Security Analyst (SOC Analyst)/ Cybersecurity Analyst/ Cyber Defense Analyst
-
 Includes-
 + Checking Incidents/Alerts or Monitoring
 + Using SIEM/EDR/IPS/IDS tools
@@ -19,16 +18,37 @@ Includes-
 + Escalations from Tier 1/2/3
 + Communication with customers or higher management about the alerts/incidents.
 
+Skills required-
++ Security Concepts and Frameworks
++ Frameworks and attack techniques
++ OS
++ SIEM tools
++ Network Fundamentals
++ EDR
++ Incident Response Procedures
++ Threat Intelligence like IOC
++ Scripting - Bash, Python, PowerShell
++ Log and Data Analysis
++ Vulnerability Scanner tools
++ Cloud Security COncept/fundamental
+
 
 Incident Responder/ Incident Response Analyst
-
 Includes-
 + Escalation from SOC Team
 + Collaborate with SOC/Security Engg.
-+ Incident Response details till post activities
++ Incident Response RCA
+
+Skills required-
++ All from SOC jobs
++ SIEM mastery
++ Malware Analysis Bacis
++ Digital Forensics tools
++ Pattern recognisation
+
+
 
 .. Information Security Analyst 
-
 Includes-
 + All stuff of SOC team.
 + Vulnerability scanning
@@ -37,27 +57,99 @@ Includes-
 + Access control
 + Security Awareness (best practices)
 
+Skills required-
++ All from SOC jobs
++ Email security
++ Firewall/ Network security Configuration
++ Incident Investigation
++ Policy misconfiguration or voilation
++ DLP/Data protection and Compliance
++ Risk Management
++ Frameworks and attack techniques
+
+
+
 
 Security Engineering Jobs-
 Security Engineer
+Includes-
++ All from SOC jobs and Information Security Analyst jobs
++ System Health checks like checking dashboards on various tools 
++ configuring and managing security tools
++ system hardening or patching
++ Security Architecture & Design
++ Code review for security weaknesses.
++ Application security
++ Analysis of compromised systems
+
+Skills required-
++ All from SOC jobs and Information Security Analyst jobs
++ System hardening
++ Cryptography, certificates, tls, ssl, key management
++ IAM
++ DevSecOps for ci/cd pipelines and sdlc
+
+
 
 Cloud Security Engineer/Specialist
+Includes-
++ Cloud infra. security
++ IAC security
++ IAM
++ using cspm and siem
++ access control
++ security policy and groups
++ data protection in rest and transit
++ VPC security
++ Security Automation & DevSecOps like CI/CD pipeline and Ansible, Terraform,etc.
++ Threat Detection & Incident Response using cloud tools.
++ Compliance & Governance
++ Vulnerability and Risk Management
++ Automation of security tools
+
+Skills-
++ Frameworks and attack techniques
++ Cloud Fundamentals expert
++ Cloud Security Services
++ IAM
++ Cloud network security
++ Encryption & Key Management
++ Threat Detection & Response
++ IAC 
++ CI/CD Pipeline Security
++ Vulnerability Management
++ Risk assessment
++ Compliance & Governance
+
+
 
 Information Systems Security Engineer
+Includes-
++ All from SOC jobs and Information Security Analyst jobs
++ Incident Support and Response helping SOC and incident response team.
++ Implementing Security Solutions like full step-ups of security tools if need from scratch
++ Forensics and Recovery like post attack/incident/alert analysis
++ Patch Management Coordination
++ Automation
 
-Security Architect: Designs complex security frameworks for organizations.
+Skills-
++ Skills all from security engineer and basic skills from cloud security
++ RCA
 
-Security Consultant: Advises organizations on best practices and security solutions.
 
-Cybersecurity Architect: Designs enterprise-level security systems and policies
+Security Architect
 
-Application Security Engineer: Ensures software is secure from development to deployment.
+Security Consultant
 
-DevSecOps Engineer: Integrates security into the software development lifecycle.
+Cybersecurity Architect
 
-.. Network Security Engineer/Specialist: Protects network infrastructure from unauthorized access and attacks.
+Application Security Engineer
 
-IoT Security Specialist: Secures Internet of Things devices and networks.
+DevSecOps Engineer
+
+.. Network Security Engineer/Specialist
+
+IoT Security Specialist
 
 Security Software Developer
 
