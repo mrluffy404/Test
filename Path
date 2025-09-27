@@ -1,0 +1,106 @@
+Defensive Job-  Preventing, detecting, and responding to cyber threats to protect an organization infra and data
+Attack Job- Finding the vulnerabilities or loop holes present in the organization from where attacker can attack and steal the info. or damage the infra and data.
+
+.. No coding
+'' Minimal coding
+
+
+Defensive Security Jobs-
+SOC Operation Jobs-
+
+.. Security Analyst (SOC Analyst)/ Cybersecurity Analyst/ Cyber Defense Analyst
+
+Includes-
++ Checking Incidents/Alerts or Monitoring
++ Using SIEM/EDR/IPS/IDS tools
++ Review Secuirty Dashboards
++ Log analysis using queries for getting data from SIEM tools
++ Incident Response Playbooks
++ Escalations from Tier 1/2/3
++ Communication with customers or higher management about the alerts/incidents.
+
+
+Incident Responder/ Incident Response Analyst
+
+Includes-
++ Escalation from SOC Team
++ Collaborate with SOC/Security Engg.
++ Incident Response details till post activities
+
+.. Information Security Analyst 
+
+Includes-
++ All stuff of SOC team.
++ Vulnerability scanning
++ Policy enforcement (security and compliance)
++ Patch Management Review
++ Access control
++ Security Awareness (best practices)
+
+
+Security Engineering Jobs-
+Security Engineer
+
+Cloud Security Engineer/Specialist
+
+Information Systems Security Engineer
+
+Security Architect: Designs complex security frameworks for organizations.
+
+Security Consultant: Advises organizations on best practices and security solutions.
+
+Cybersecurity Architect: Designs enterprise-level security systems and policies
+
+Application Security Engineer: Ensures software is secure from development to deployment.
+
+DevSecOps Engineer: Integrates security into the software development lifecycle.
+
+.. Network Security Engineer/Specialist: Protects network infrastructure from unauthorized access and attacks.
+
+IoT Security Specialist: Secures Internet of Things devices and networks.
+
+Security Software Developer
+
+
+
+Vulnerability & Threat Management Jobs-
+
+Malware Analyst/Reverse Engineering: Dissects malicious software to understand its behavior and develop defenses.
+
+.. Digital Forensics Expert/ Cyber Investigations: Investigates cybercrimes and collects evidence for legal proceedings.
+
+Vulnerability Analyst/Specialist
+
+'' or .. Threat Hunter/Threat Intelligence Analyst:Studies threat actors and trends to anticipate future attacks.
+
+
+
+Identity & Access Management (IAM) Jobs-
+IAM Specialist/Engineer- 
+
+
+
+.. Compliance, Risk, and Audit Roles Jobs
+
+Risk Management Jobs-
+IT Auditor/ Information Security Auditor: Evaluates systems and processes for compliance with regulations and standards.
+
+CyberSecurity/ Risk Analyst: Assesses potential threats and recommends mitigation strategies.
+
+Policy and compliance jobs-
+Compliance Officer: Ensures adherence to cybersecurity laws and industry standards.
+
+Data Protection Officer (DPO)
+
+Privacy Officer: Manages data privacy policies and compliance with regulations like GDPR.
+
+Security Consulting Jobs-
+Cybersecurity Consultant- 
+
+
+
+Offensive Securtiy Jobs-
+Penetration Tester/ Ethical Hacker/ Red Team Operator: Simulates attacks to find vulnerabilities before malicious actors do.
+
+Security Researcher/ Vulnerability Researcher / Exploit Developer
+
