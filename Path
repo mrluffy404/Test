@@ -140,6 +140,25 @@ Skills-
 Security Architect
 
 Security Consultant
+Includes-
+Risk Assessment & Vulnerability Testing
+Pentesting
+Design and update security frameworks and policies
+Client Consultation & Communication
+Incident Response & Threat Monitoring
+Compliance and Documentation for Audits
+
+Skills-
+All from SOC jobs
+CyberSecurity Fundatmentals like protocols.
+Network Security
+Pentesting and EH
+Cloud Security
+Auditing and Compliance
+IR and Foriences
+scripting
+
+
 
 Cybersecurity Architect
 
@@ -157,13 +176,32 @@ Security Software Developer
 
 Vulnerability & Threat Management Jobs-
 
-Malware Analyst/Reverse Engineering: Dissects malicious software to understand its behavior and develop defenses.
+Malware Analyst/Reverse Engineering
 
-.. Digital Forensics Expert/ Cyber Investigations: Investigates cybercrimes and collects evidence for legal proceedings.
+.. Digital Forensics Expert/ Cyber Investigations
+Includes-
+Evidence collection from various sources like devices or cloud.
+Data Analysis
+Prevention and Documentation for legal.
+Collab with legal team
+Artifact Recovery
+Decoding and Decryption
+RCA
+
+Skills-
+Forencis tool mastery like FTK, Autospy
+OS
+File Systems like fat32, ext4
+memory and disk imaging 
+network log analysis tools wireshark
+ioc
+scripting
+
 
 Vulnerability Analyst/Specialist
 
-'' or .. Threat Hunter/Threat Intelligence Analyst:Studies threat actors and trends to anticipate future attacks.
+'' or .. Threat Hunter/Threat Intelligence Analyst
+
 
 
 
